@@ -1,0 +1,30 @@
+Datastes Used:
+
+For Data Preprocessing: https://www.kaggle.com/wendykan/lending-club-loan-data
+For Exploratory Data analysis: https://www.superdatascience.com/tableau/ (The first dataset given under section 1: SuperStoreUS_2015.xlsx)
+For Time-Series Analysis: Created my own dataset by taking the stock data for 20 different comapnies* trading on NASDAQ from https://in.finance.yahoo.com/
+For Natural language Processing: https://www.superdatascience.com/machine-learning/ (Part 7- Section 36- Natural-Language-Processing.zip)
+For machine learning: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.xls.
+
+
+* The companies whose stock data was used (time period: 30/6/2016-30/6/2017):
+1)Amazon
+2)AMC
+3)Apple
+4)AT&T
+5)Coke
+6)Facebook
+7)General Motors
+8)Google
+9)IBM
+10)Intel
+11)Logitech
+12)Microsoft
+13)Oracle
+14)Pepsico
+15)Sony
+16)Starbucks
+17)Tesla
+18)Time-Warner
+19)Twitter
+20)Verizon
